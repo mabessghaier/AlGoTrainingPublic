@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "AlGoTrainingPublic"
+                    },
+                    {
+                        "path":  "AlGoTrainingPublic.Test"
                     }
                 ],
     "settings":  {
