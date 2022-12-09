@@ -12,7 +12,7 @@ Param(
     [switch] $fromVSCode
 )
 
-# Small edit !
+# Small edit !!!
 $ErrorActionPreference = "stop"
 Set-StrictMode -Version 2.0
 
